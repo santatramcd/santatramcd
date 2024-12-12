@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santatra Michado</h1>
 <h3 align="center">A passionate web developer from Madagascar</h3>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" width="360" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" />
 
 
 - 🔭 I’m currently working on [Createak](https://createak.mu)
