@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [https://santatra-michado.com](https://santatra-michado.com)
 
-- 📝 I regularly write articles on [https://portfolio-santatra.netlify.app/work](https://portfolio-santatra.netlify.app/work)
+- 📝 I regularly write articles on [https://portfolio-santatra.netlify.app/work](https://santatra-michado.vercel.app/)
 
 - 💬 Ask me about **react, vue and bootstrap 5**
 
 - 📫 How to reach me **andrianjakasantatra22@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-santatra.netlify.app/about](https://portfolio-santatra.netlify.app/about)
+- 📄 Know about my experiences [https://portfolio-santatra.netlify.app/about](https://santatra-michado.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
