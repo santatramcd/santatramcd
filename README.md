@@ -3,7 +3,6 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" />
 
-
 - 🔭 I’m currently working on [Createak](https://createak.mu)
 
 - 🌱 I’m currently learning **Frameworks**
@@ -14,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://santatra-michado.com](https://santatra-michado.com)
 
-- 📝 I regularly write articles on [https://portfolio-santatra.netlify.app/work](https://santatra-michado.vercel.app/)
+- 📝 I regularly write articles on [https://santatra-michado.vercel.app/](https://santatra-michado.vercel.app/)
 
 - 💬 Ask me about **react, vue and bootstrap 5**
 
 - 📫 How to reach me **andrianjakasantatra22@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-santatra.netlify.app/about](https://santatra-michado.vercel.app/)
+- 📄 Know about my experiences [https://santatra-michado.vercel.app/](https://santatra-michado.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
