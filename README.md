@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with [Robinruth Thailand](https://robinruth-thailand.com/)
 
-- 👨‍💻 All of my projects are available at [https://santatra-michado.com](https://santatra-michado.com)
+- 👨‍💻 All of my projects are available at [https://santatra-michado.com](https://santatra-michado.site)
 
-- 📝 I regularly write articles on [https://santatra-michado.vercel.app/](https://santatra-michado.vercel.app/)
+- 📝 I regularly write articles on [https://santatra-michado.site](https://santatra-michado.site/)
 
 - 💬 Ask me about **react, vue and bootstrap 5**
 
 - 📫 How to reach me **andrianjakasantatra22@gmail.com**
 
-- 📄 Know about my experiences [https://santatra-michado.vercel.app/](https://santatra-michado.vercel.app/)
+- 📄 Know about my experiences [https://santatra-michado.vercel.app/](https://santatra-michado.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
